@@ -1,0 +1,27 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+venv/
+.env/
+chroma_db/
+
+
+# Virtual Environment
+.venv/
+venv/
+env/
+anaconda3/
+
+# ChromaDB local database folders (Too large for GitHub)
+my_subtitles_db/
+*.db
+
+# Audio/Video test files
+*.mp3
+*.wav
+*.mp4
+temp_audio_file
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
